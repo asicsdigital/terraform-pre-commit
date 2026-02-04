@@ -8,8 +8,6 @@
 [![OpenSSF Best Practices Badge]](https://www.bestpractices.dev/projects/9963)
 [![Codetriage - Help Contribute to Open Source Badge]](https://www.codetriage.com/antonbabenko/pre-commit-terraform)
 
-[![StandWithUkraine Banner]](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
 <!-- markdownlint-disable no-inline-html -->
 <p align="center"><img src="assets/pre-commit-terraform-banner.png" alt="pre-commit-terraform logo" width="700"/></p>
 
@@ -31,7 +29,6 @@ and [contributing notes](/.github/CONTRIBUTING.md).
 [Codecov Pytest Badge]: https://codecov.io/gh/antonbabenko/pre-commit-terraform/branch/master/graph/badge.svg?flag=pytest
 [OpenSSF Scorecard Badge]: https://api.scorecard.dev/projects/github.com/antonbabenko/pre-commit-terraform/badge
 [OpenSSF Best Practices Badge]: https://www.bestpractices.dev/projects/9963/badge
-[StandWithUkraine Banner]: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg
 
 ## Sponsors
 
@@ -1355,13 +1352,6 @@ This repository is managed by [Anton Babenko](https://github.com/antonbabenko) w
 ## License
 
 MIT licensed. See [LICENSE](LICENSE) for full details.
-
-### Additional information for users from Russia and Belarus
-
-* Russia has [illegally annexed Crimea in 2014](https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation) and [brought the war in Donbas](https://en.wikipedia.org/wiki/War_in_Donbas) followed by [full-scale invasion of Ukraine in 2022](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine).
-* Russia has brought sorrow and devastations to millions of Ukrainians, killed hundreds of innocent people, damaged thousands of buildings, and forced several million people to flee.
-* [Putin khuylo!](https://en.wikipedia.org/wiki/Putin_khuylo!)
-
 
 <!-- Tools links -->
 [checkov repo]: https://github.com/bridgecrewio/checkov
